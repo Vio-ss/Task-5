@@ -6,7 +6,6 @@
       <class name="task5.task5.CalculatorAppTest">
         <methods>
           <include name="testMul"/>
-          <include name="testAdd"/>
           <include name="testSub"/>
         </methods>
       </class> <!-- task5.task5.CalculatorAppTest -->
